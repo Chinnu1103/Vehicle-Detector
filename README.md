@@ -9,25 +9,25 @@ To train it on your own dataset create a training folder consisting of seperate 
 Change the name of the dataset folder in train.py.
 Type python3 train.py to run the model.
 
-Example of Dataset:
-
-.
--train.py
--test.py
--Dataset
-  -Two wheelers
-    -one.jpg
-    -two.jpg
+Example of Dataset: <br />
+<br />
+. <br />
+-train.py <br />
+-test.py <br />
+-Dataset <br />
+  -Two wheelers <br />
+    -one.jpg <br />
+    -two.jpg <br />
     ... 
-  -Three wheelers
-    -one.jpg
-    -two.jpg
+  -Three wheelers <br />
+    -one.jpg <br />
+    -two.jpg <br />
     ...
-  -Four Whelers
-    -one.jpg
-    -two.jpg
+  -Four Whelers <br />
+    -one.jpg <br />
+    -two.jpg <br />
     ...
   ...
--vehicles.data-00000-of-00001
--vehicles.index
+-vehicles.data-00000-of-00001 <br />
+-vehicles.index <br />
 -vehicles.meta
