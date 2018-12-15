@@ -36,7 +36,7 @@ Type ```python3 train.py``` to run the model.
 - vehicles.meta
 ```
 
-**TODO : **
+**TODO :**
 
 - [ ] Train the model on more vaehicle classes
 - [ ] Make the CNN model more complex
