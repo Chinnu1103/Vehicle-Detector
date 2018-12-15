@@ -1,15 +1,15 @@
 # Vehicle-Detector
-Computes the number of wheels present in a vehicle by identifying it using a simple primitive CNN coded in tensorflow.
+## Computes the number of wheels present in a vehicle by identifying it using a simple primitive CNN coded in tensorflow.
 
-USAGE : 
+**USAGE :** 
 python3 test.py <filename>
   
-TRAINING :
+**TRAINING :**
 To train it on your own dataset create a training folder consisting of seperate folders for each class
 Change the name of the dataset folder in train.py.
 Type python3 train.py to run the model.
 
-Example of Dataset: <br />
+**Example of Dataset:**
 
 ```
 .
