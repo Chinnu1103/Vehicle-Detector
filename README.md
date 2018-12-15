@@ -11,23 +11,23 @@ Type python3 train.py to run the model.
 
 Example of Dataset: <br />
 
-.
--train.py <br />
--test.py <br />
--Dataset <br />
-  -Two wheelers <br />
-    -one.jpg <br />
-    -two.jpg <br />
-    ... <br />
-  -Three wheelers <br />
-    -one.jpg <br />
-    -two.jpg <br />
-    ... <br />
-  -Four Whelers <br />
-    -one.jpg <br />
-    -two.jpg <br />
-    ... <br />
-  ... <br />
--vehicles.data-00000-of-00001 <br />
--vehicles.index <br />
--vehicles.meta
+. <br />
+train.py <br />
+test.py <br />
+Dataset <br />
+- Two wheelers <br />
+  - one.jpg <br />
+  - two.jpg <br />
+  - ... <br />
+- Three wheelers <br />
+  - one.jpg <br />
+  - two.jpg <br />
+  - ... <br />
+- Four Whelers <br />
+  - one.jpg <br />
+  - two.jpg <br />
+  - ... <br />
+  - ... <br />
+vehicles.data-00000-of-00001 <br />
+vehicles.index <br />
+vehicles.meta
