@@ -10,24 +10,23 @@ Change the name of the dataset folder in train.py.
 Type python3 train.py to run the model.
 
 Example of Dataset: <br />
-
-. <br />
-train.py <br />
-test.py <br />
-Dataset <br />
-- Two wheelers <br />
-  - one.jpg <br />
-  - two.jpg <br />
-  - ... <br />
-- Three wheelers <br />
-  - one.jpg <br />
-  - two.jpg <br />
-  - ... <br />
-- Four Whelers <br />
-  - one.jpg <br />
-  - two.jpg <br />
-  - ... <br />
-  - ... <br />
-vehicles.data-00000-of-00001 <br />
-vehicles.index <br />
-vehicles.meta
+- .
+- train.py
+- test.py
+- Dataset
+  - Two wheelers
+    - one.jpg
+    - two.jpg
+    - ...
+  - Three wheelers
+    - one.jpg
+    - two.jpg
+    - ...
+  - Four Whelers
+    - one.jpg
+    - two.jpg
+    - ...
+  - ...
+-vehicles.data-00000-of-00001
+-vehicles.index
+-vehicles.meta
