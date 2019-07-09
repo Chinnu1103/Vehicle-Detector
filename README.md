@@ -38,6 +38,6 @@ Type ```python3 train.py``` to run the model.
 
 **TODO :**
 
-- [ ] Train the model on more vaehicle classes
+- [ ] Train the model on more vehicle classes
 - [ ] Make the CNN model more complex
 
